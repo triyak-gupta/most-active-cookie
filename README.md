@@ -1,6 +1,4 @@
 # most-active-cookie
-
-# most-active-cookie
 Process a cookie log file and return the most active cookie for a specific day based on the cli inputs (-f filename and -d date)
 
 ## Tech
